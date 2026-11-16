@@ -14,6 +14,15 @@
     <ClCompile Include="..\..\source\Main.c">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="04.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="05.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="06.c">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\source\Header.h">

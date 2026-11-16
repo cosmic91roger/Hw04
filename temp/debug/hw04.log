@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(535,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(536,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  04.c
+C:\Users\User\Desktop\hw04\hw04\hw04\04.c(10,2): warning C4013: 'printf' 未定義; 假設 extern 傳回整數
+C:\Users\User\Desktop\hw04\hw04\hw04\04.c(16,2): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  hw04.vcxproj -> C:\Users\User\Desktop\hw04\temp\debug\hw04.exe

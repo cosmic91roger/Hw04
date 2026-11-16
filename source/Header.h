@@ -1,1 +1,3 @@
-#pragma once
+int four();
+int five();
+int six();

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\hw04\\hw04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5D1EE7F9-D0FB-45C1-8008-2D3E0D48A9E4}|hw04\\hw04.vcxproj|C:\\Users\\User\\Desktop\\hw04\\hw04\\hw04\\04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D1EE7F9-D0FB-45C1-8008-2D3E0D48A9E4}|hw04\\hw04.vcxproj|solutionrelative:hw04\\04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1EE7F9-D0FB-45C1-8008-2D3E0D48A9E4}|hw04\\hw04.vcxproj|C:\\Users\\User\\Desktop\\hw04\\hw04\\hw04\\06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D1EE7F9-D0FB-45C1-8008-2D3E0D48A9E4}|hw04\\hw04.vcxproj|solutionrelative:hw04\\06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1EE7F9-D0FB-45C1-8008-2D3E0D48A9E4}|hw04\\hw04.vcxproj|C:\\Users\\User\\Desktop\\hw04\\hw04\\hw04\\05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D1EE7F9-D0FB-45C1-8008-2D3E0D48A9E4}|hw04\\hw04.vcxproj|solutionrelative:hw04\\05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5D1EE7F9-D0FB-45C1-8008-2D3E0D48A9E4}|hw04\\hw04.vcxproj|C:\\Users\\User\\Desktop\\hw04\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -21,28 +33,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "06.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hw04\\hw04\\hw04\\06.c",
+              "RelativeDocumentMoniker": "hw04\\06.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hw04\\hw04\\hw04\\06.c",
+              "RelativeToolTip": "hw04\\06.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-16T08:39:30.085Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "04.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hw04\\hw04\\hw04\\04.c",
+              "RelativeDocumentMoniker": "hw04\\04.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hw04\\hw04\\hw04\\04.c",
+              "RelativeToolTip": "hw04\\04.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-16T08:20:11.813Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "05.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hw04\\hw04\\hw04\\05.c",
+              "RelativeDocumentMoniker": "hw04\\05.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hw04\\hw04\\hw04\\05.c",
+              "RelativeToolTip": "hw04\\05.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-16T08:34:09.958Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Header.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\hw04\\source\\Header.h",
               "RelativeDocumentMoniker": "..\\source\\Header.h",
               "ToolTip": "C:\\Users\\User\\Desktop\\hw04\\source\\Header.h",
               "RelativeToolTip": "..\\source\\Header.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-11-16T07:52:47.871Z",
-              "EditorCaption": ""
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\hw04\\source\\Main.c",
               "RelativeDocumentMoniker": "..\\source\\Main.c",
               "ToolTip": "C:\\Users\\User\\Desktop\\hw04\\source\\Main.c",
               "RelativeToolTip": "..\\source\\Main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-11-16T07:46:01.475Z",
-              "EditorCaption": ""
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
