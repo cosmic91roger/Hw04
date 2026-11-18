@@ -1,0 +1,15 @@
+int four();
+int five();
+int six();
+int seven();
+int eight();
+int thirteen();
+int fourteen();
+int nineteen();
+int twentyone();
+int twentyfive();
+int twentysix();
+int twentyeight();
+int thirty();
+int thirtyseven();
+int bubble();

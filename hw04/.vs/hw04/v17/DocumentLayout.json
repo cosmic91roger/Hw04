@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c_code\\ch4_homework\\hw04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4F7ABC-4ADE-4DC8-B4C8-E67E12A3F8CE}|hw04\\hw04.vcxproj|C:\\c_code\\ch4_homework\\source\\6.11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4F7ABC-4ADE-4DC8-B4C8-E67E12A3F8CE}|hw04\\hw04.vcxproj|C:\\c_code\\ch4_homework\\source\\37.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4F7ABC-4ADE-4DC8-B4C8-E67E12A3F8CE}|hw04\\hw04.vcxproj|C:\\c_code\\ch4_homework\\source\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4F7ABC-4ADE-4DC8-B4C8-E67E12A3F8CE}|hw04\\hw04.vcxproj|C:\\c_code\\ch4_homework\\include\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4F7ABC-4ADE-4DC8-B4C8-E67E12A3F8CE}|hw04\\hw04.vcxproj|C:\\c_code\\ch4_homework\\source\\28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "28.cpp",
+              "DocumentMoniker": "C:\\c_code\\ch4_homework\\source\\28.cpp",
+              "RelativeDocumentMoniker": "..\\source\\28.cpp",
+              "ToolTip": "C:\\c_code\\ch4_homework\\source\\28.cpp",
+              "RelativeToolTip": "..\\source\\28.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-17T16:21:52.817Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6.11.cpp",
+              "DocumentMoniker": "C:\\c_code\\ch4_homework\\source\\6.11.cpp",
+              "RelativeDocumentMoniker": "..\\source\\6.11.cpp",
+              "ToolTip": "C:\\c_code\\ch4_homework\\source\\6.11.cpp",
+              "RelativeToolTip": "..\\source\\6.11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T06:07:12.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "37.cpp",
+              "DocumentMoniker": "C:\\c_code\\ch4_homework\\source\\37.cpp",
+              "RelativeDocumentMoniker": "..\\source\\37.cpp",
+              "ToolTip": "C:\\c_code\\ch4_homework\\source\\37.cpp",
+              "RelativeToolTip": "..\\source\\37.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T04:51:45.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\c_code\\ch4_homework\\include\\Header.h",
+              "RelativeDocumentMoniker": "..\\include\\Header.h",
+              "ToolTip": "C:\\c_code\\ch4_homework\\include\\Header.h",
+              "RelativeToolTip": "..\\include\\Header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-17T16:29:37.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\c_code\\ch4_homework\\source\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\source\\Main.cpp",
+              "ToolTip": "C:\\c_code\\ch4_homework\\source\\Main.cpp",
+              "RelativeToolTip": "..\\source\\Main.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-17T16:23:28.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

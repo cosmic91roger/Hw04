@@ -1,0 +1,37 @@
+#include<stdlib.h>
+#include<stdio.h>
+#include"C:\c_code\ch4_homework\include\Header.h"
+
+int main()
+{
+	printf("04:\n");
+	four();
+	printf("05:\n");
+	five();
+	printf("06:\n");
+	six();
+	printf("07:\n");
+	seven();
+	printf("08:\n");
+	eight();
+	printf("13:\n");
+	thirteen();
+	printf("14:\n");
+	fourteen();
+	printf("19:\n");
+	nineteen();
+	printf("21:\n");
+	twentyone();
+	printf("25:\n");
+	twentyfive();
+	printf("26:\n");
+	twentysix();
+	printf("28:\n");
+	twentyeight();
+	printf("30:\n");
+	thirty();
+	printf("37:\n");
+	thirtyseven();
+	printf("6.11:\n");
+	bubble();
+}
